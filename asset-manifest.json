@@ -1,28 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.564be1c1.chunk.css",
-    "main.js": "/static/js/main.12473e43.chunk.js",
-    "main.js.map": "/static/js/main.12473e43.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.faae779d.js",
-    "runtime-main.js.map": "/static/js/runtime-main.faae779d.js.map",
-    "static/css/2.e50fe18a.chunk.css": "/static/css/2.e50fe18a.chunk.css",
-    "static/js/2.fa860f57.chunk.js": "/static/js/2.fa860f57.chunk.js",
-    "static/js/2.fa860f57.chunk.js.map": "/static/js/2.fa860f57.chunk.js.map",
-    "static/js/3.fb8aabaa.chunk.js": "/static/js/3.fb8aabaa.chunk.js",
-    "static/js/3.fb8aabaa.chunk.js.map": "/static/js/3.fb8aabaa.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.e50fe18a.chunk.css.map": "/static/css/2.e50fe18a.chunk.css.map",
-    "static/css/main.564be1c1.chunk.css.map": "/static/css/main.564be1c1.chunk.css.map",
-    "static/js/2.fa860f57.chunk.js.LICENSE.txt": "/static/js/2.fa860f57.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/static/media/Copernicus-BookItalic.4b64c887.woff",
-    "static/media/logo_dark.fd629caa.png": "/static/media/logo_dark.fd629caa.png",
-    "static/media/logo_lite.a196c8d4.png": "/static/media/logo_lite.a196c8d4.png"
+    "main.css": "/mAckmm.github.io/portfolio/static/css/main.093747b7.chunk.css",
+    "main.js": "/mAckmm.github.io/portfolio/static/js/main.98eb7e32.chunk.js",
+    "main.js.map": "/mAckmm.github.io/portfolio/static/js/main.98eb7e32.chunk.js.map",
+    "runtime-main.js": "/mAckmm.github.io/portfolio/static/js/runtime-main.b4083665.js",
+    "runtime-main.js.map": "/mAckmm.github.io/portfolio/static/js/runtime-main.b4083665.js.map",
+    "static/css/2.0c19cb83.chunk.css": "/mAckmm.github.io/portfolio/static/css/2.0c19cb83.chunk.css",
+    "static/js/2.eec59d03.chunk.js": "/mAckmm.github.io/portfolio/static/js/2.eec59d03.chunk.js",
+    "static/js/2.eec59d03.chunk.js.map": "/mAckmm.github.io/portfolio/static/js/2.eec59d03.chunk.js.map",
+    "static/js/3.90760f55.chunk.js": "/mAckmm.github.io/portfolio/static/js/3.90760f55.chunk.js",
+    "static/js/3.90760f55.chunk.js.map": "/mAckmm.github.io/portfolio/static/js/3.90760f55.chunk.js.map",
+    "index.html": "/mAckmm.github.io/portfolio/index.html",
+    "static/css/2.0c19cb83.chunk.css.map": "/mAckmm.github.io/portfolio/static/css/2.0c19cb83.chunk.css.map",
+    "static/css/main.093747b7.chunk.css.map": "/mAckmm.github.io/portfolio/static/css/main.093747b7.chunk.css.map",
+    "static/js/2.eec59d03.chunk.js.LICENSE.txt": "/mAckmm.github.io/portfolio/static/js/2.eec59d03.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/mAckmm.github.io/portfolio/static/media/Copernicus-BookItalic.4b64c887.woff",
+    "static/media/logo_dark1.48884b02.png": "/mAckmm.github.io/portfolio/static/media/logo_dark1.48884b02.png",
+    "static/media/logo_lite1.f5d042ea.png": "/mAckmm.github.io/portfolio/static/media/logo_lite1.f5d042ea.png",
+    "static/media/welcomeImage-min2.b0c383d1.png": "/mAckmm.github.io/portfolio/static/media/welcomeImage-min2.b0c383d1.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.faae779d.js",
-    "static/css/2.e50fe18a.chunk.css",
-    "static/js/2.fa860f57.chunk.js",
-    "static/css/main.564be1c1.chunk.css",
-    "static/js/main.12473e43.chunk.js"
+    "static/js/runtime-main.b4083665.js",
+    "static/css/2.0c19cb83.chunk.css",
+    "static/js/2.eec59d03.chunk.js",
+    "static/css/main.093747b7.chunk.css",
+    "static/js/main.98eb7e32.chunk.js"
   ]
 }
