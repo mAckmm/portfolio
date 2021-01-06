@@ -1,5 +1,6 @@
 {
   "files": {
+<<<<<<< HEAD
     "main.css": "/portfolio/static/css/main.11307768.chunk.css",
     "main.js": "/portfolio/static/js/main.df7573e8.chunk.js",
     "main.js.map": "/portfolio/static/js/main.df7573e8.chunk.js.map",
@@ -8,12 +9,27 @@
     "static/css/2.0c19cb83.chunk.css": "/portfolio/static/css/2.0c19cb83.chunk.css",
     "static/js/2.5ff078c5.chunk.js": "/portfolio/static/js/2.5ff078c5.chunk.js",
     "static/js/2.5ff078c5.chunk.js.map": "/portfolio/static/js/2.5ff078c5.chunk.js.map",
+=======
+    "main.css": "/portfolio/static/css/main.8d58ea1c.chunk.css",
+    "main.js": "/portfolio/static/js/main.491eb7e2.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.491eb7e2.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.d1d8273a.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.d1d8273a.js.map",
+    "static/css/2.0c19cb83.chunk.css": "/portfolio/static/css/2.0c19cb83.chunk.css",
+    "static/js/2.eec59d03.chunk.js": "/portfolio/static/js/2.eec59d03.chunk.js",
+    "static/js/2.eec59d03.chunk.js.map": "/portfolio/static/js/2.eec59d03.chunk.js.map",
+>>>>>>> a8301470fa5b3ebbcaff893ff7245755646065a4
     "static/js/3.90760f55.chunk.js": "/portfolio/static/js/3.90760f55.chunk.js",
     "static/js/3.90760f55.chunk.js.map": "/portfolio/static/js/3.90760f55.chunk.js.map",
     "index.html": "/portfolio/index.html",
     "static/css/2.0c19cb83.chunk.css.map": "/portfolio/static/css/2.0c19cb83.chunk.css.map",
+<<<<<<< HEAD
     "static/css/main.11307768.chunk.css.map": "/portfolio/static/css/main.11307768.chunk.css.map",
     "static/js/2.5ff078c5.chunk.js.LICENSE.txt": "/portfolio/static/js/2.5ff078c5.chunk.js.LICENSE.txt",
+=======
+    "static/css/main.8d58ea1c.chunk.css.map": "/portfolio/static/css/main.8d58ea1c.chunk.css.map",
+    "static/js/2.eec59d03.chunk.js.LICENSE.txt": "/portfolio/static/js/2.eec59d03.chunk.js.LICENSE.txt",
+>>>>>>> a8301470fa5b3ebbcaff893ff7245755646065a4
     "static/media/index.css": "/portfolio/static/media/Copernicus-BookItalic.4b64c887.woff",
     "static/media/logo_dark1.48884b02.png": "/portfolio/static/media/logo_dark1.48884b02.png",
     "static/media/logo_lite1.f5d042ea.png": "/portfolio/static/media/logo_lite1.f5d042ea.png",
@@ -22,8 +38,14 @@
   "entrypoints": [
     "static/js/runtime-main.d1d8273a.js",
     "static/css/2.0c19cb83.chunk.css",
+<<<<<<< HEAD
     "static/js/2.5ff078c5.chunk.js",
     "static/css/main.11307768.chunk.css",
     "static/js/main.df7573e8.chunk.js"
+=======
+    "static/js/2.eec59d03.chunk.js",
+    "static/css/main.8d58ea1c.chunk.css",
+    "static/js/main.491eb7e2.chunk.js"
+>>>>>>> a8301470fa5b3ebbcaff893ff7245755646065a4
   ]
 }
