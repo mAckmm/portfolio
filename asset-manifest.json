@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.47f6485c.chunk.css",
-    "main.js": "/portfolio/static/js/main.5aa52a05.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.5aa52a05.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.e5b4c96f.chunk.css",
+    "main.js": "/portfolio/static/js/main.fed315cd.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.fed315cd.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.d1d8273a.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.d1d8273a.js.map",
     "static/css/2.0c19cb83.chunk.css": "/portfolio/static/css/2.0c19cb83.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.90760f55.chunk.js.map": "/portfolio/static/js/3.90760f55.chunk.js.map",
     "index.html": "/portfolio/index.html",
     "static/css/2.0c19cb83.chunk.css.map": "/portfolio/static/css/2.0c19cb83.chunk.css.map",
-    "static/css/main.47f6485c.chunk.css.map": "/portfolio/static/css/main.47f6485c.chunk.css.map",
+    "static/css/main.e5b4c96f.chunk.css.map": "/portfolio/static/css/main.e5b4c96f.chunk.css.map",
     "static/js/2.5ff078c5.chunk.js.LICENSE.txt": "/portfolio/static/js/2.5ff078c5.chunk.js.LICENSE.txt",
     "static/media/index.css": "/portfolio/static/media/Copernicus-BookItalic.4b64c887.woff",
     "static/media/logo_dark1.48884b02.png": "/portfolio/static/media/logo_dark1.48884b02.png",
@@ -23,7 +23,7 @@
     "static/js/runtime-main.d1d8273a.js",
     "static/css/2.0c19cb83.chunk.css",
     "static/js/2.5ff078c5.chunk.js",
-    "static/css/main.47f6485c.chunk.css",
-    "static/js/main.5aa52a05.chunk.js"
+    "static/css/main.e5b4c96f.chunk.css",
+    "static/js/main.fed315cd.chunk.js"
   ]
 }
